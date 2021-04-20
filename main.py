@@ -6,7 +6,7 @@ import random, os
 os.makedirs('samples', exist_ok=True)
 os.makedirs('result', exist_ok=True)
 
-string = '안녕하세요 너굴 상회입니다'
+string = '안녕 나는 귀염둥이 숟가락 스푼이야'
 random_factor = 0.35
 
 result_sound = None
